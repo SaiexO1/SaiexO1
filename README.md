@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiexO1
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning C# and java
+- 🌱 I’m currently learning C#, SQL, Python
 - 💞️ I’m looking to collaborate on - maybe later
 - 📫 How to reach me via e-mail orzechsaimon267@gmail.com
 
