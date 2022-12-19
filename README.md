@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaiexO1
+- 👋 Hi, I’m @Szymon_Orzechowski
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning C#, SQL, Python
+- 🌱 I’m currently learning HTML, SQL, Python
 - 💞️ I’m looking to collaborate on - maybe later
 - 📫 How to reach me via e-mail orzechsaimon267@gmail.com
 
